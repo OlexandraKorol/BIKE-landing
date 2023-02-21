@@ -6,8 +6,8 @@
 
 This landing page was created as a training project.
 
-* User can open burger menu,
-* Send an information on special form,
+* User can open burger menu
+* Send an information on special form
 * All telephone and email links are clickable
 * Fully Responsive design
 * The project is SEO friendly
